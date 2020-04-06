@@ -16,7 +16,7 @@
             <meta name="viewport" content="width=device-width, initial-scale=1.0" />
             <link href="https://fonts.googleapis.com/css?family=Work+Sans: 30%"  />
             <link type="text/css" rel="stylesheet" href="style.css"/>
-            <title>DCDR.sa</title>
+            <title>Job Applied</title>
         </head>
 	<body>
     		<h1>Current Applications </h1>
