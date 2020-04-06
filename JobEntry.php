@@ -1,6 +1,7 @@
 <html>
 <body>
 <?php
+    
 // capture the values for storage in sql statements
 $_JobID=$_POST["JobID"];
 $_JobName=$_POST["JobName"];
